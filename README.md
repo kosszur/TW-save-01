@@ -10,5 +10,5 @@ Ez lesz a tanulságokat összeszedő repó.
 ## TOC
 
 - [másik](masik.md)re is tudok hivatkozni
-- [almappa fájl](almappa\file01.md)ra is tudok hivatkozni
+- [almappa fájl](almappa/file01.md)ra is tudok hivatkozni
 
